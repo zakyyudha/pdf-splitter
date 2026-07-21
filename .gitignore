@@ -1,4 +1,5 @@
 .kiro
+design.md
 node_modules/
 .vercel
 *.log
